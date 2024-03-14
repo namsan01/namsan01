@@ -1,10 +1,6 @@
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobbyscripterII&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hobbyscripterII&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hobbyscripterII&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hobbyscripterII&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hobbyscripterII&theme=graywhite&utcOffset=8)
+
 
 <!--
 **namsan01/namsan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
