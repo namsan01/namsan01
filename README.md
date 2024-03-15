@@ -1,10 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=150&section=header&text=hello%20world!&fontColor=2a2c31&fontSize=80&animation=twinkling&fontAlignY=45&desc=Life%20is%20from%20the%20inside%20out.&descAlignY=75&descAlign=62" />
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namsan01&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namsan01&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namsan01&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=namsan01&theme=date_night)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namsan01&theme=date_night&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namsan01&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namsan01&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namsan01&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=namsan01&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namsan01&theme=github&utcOffset=8)
 
 
 
