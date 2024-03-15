@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&animation=twinkling&color=0123B4&height=220&section=header&text=hobbyscripterII&fontSize=90&&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&animation=twinkling&color=0123B4&height=220&section=header&text=namsan01&fontSize=90&&fontColor=FFFFFF" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namsan01&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namsan01&theme=transparent)
