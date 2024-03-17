@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1>안녕하세요 신입 프론트엔드 개발자 김민수입니다.</h1>
+<h1>안녕하세요! 신입 프론트엔드 개발자 김민수입니다.</h1>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namsan01&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namsan01&theme=github)
